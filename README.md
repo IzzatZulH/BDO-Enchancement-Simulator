@@ -8,8 +8,8 @@ Built with vanilla JavaScript, HTML5 Canvas particle physics, Web Audio API proc
 
 ## 🌐 Live Interactive Demo
 
-* **Live Web App:** `https://your-username.github.io/bdo-enhancement-simulator/`
-* **Author:** SAIII
+* **Live Web App:** `https://github.com/IzzatZulH/BDO-Enchancement-Simulator/`
+* **Author:** Izzat Zul
 
 The Slumbering Origin gear set represents the absolute pinnacle of gear progression in *Black Desert Online*. Because in-game enhancement attempts require billions of silver in resources and carry severe downgrade penalties, this simulator was engineered to provide players with a mathematically rigorous sandboxed environment to test failstack strategies, evaluate Cron Stone efficiency, and monitor long-term economic expenditure.
 
