@@ -1,4 +1,6 @@
 # ⚔️ Black Desert Online — Slumbering Origin Enhancement Simulator
+<img width="1299" height="911" alt="image" src="https://github.com/user-attachments/assets/a3643ea4-2087-4ad6-bf2f-dd55341ded94" />
+
 
 An interactive, high-fidelity web simulator that accurately models the probabilistic mechanics, pity systems, and economic impact of enhancing endgame **Slumbering Origin (Fallen God)** equipment in *Black Desert Online*.
 
