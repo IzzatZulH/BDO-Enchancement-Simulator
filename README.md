@@ -10,7 +10,7 @@ Built with vanilla JavaScript, HTML5 Canvas particle physics, Web Audio API proc
 
 ## 🌐 Live Interactive Demo
 
-* **Live Web App:** https://izzatzulh.github.io/bdo-enhancement-simulator/index.html
+* **Live Web App:** https://izzatzulh.github.io/BDO-Enchancement-Simulator/
 * **GitHub Repository:** https://github.com/IzzatZulH/bdo-enhancement-simulator
 * **Author / Developer:** Izzat Zul
 
